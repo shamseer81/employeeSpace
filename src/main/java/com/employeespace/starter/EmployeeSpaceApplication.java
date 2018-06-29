@@ -1,4 +1,4 @@
-package com.employee.employeeSpace;
+package com.employeespace.employeeSpace;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
